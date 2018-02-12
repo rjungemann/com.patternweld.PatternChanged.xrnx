@@ -21,3 +21,4 @@ From now on, whenever the transport is playing and a pattern is changed, an OSC 
 * Add an example Max patch.
 * Instructions for changing the default port.
 * Release on the Renoise Tools site.
+* Add a description to the tool metadata.
