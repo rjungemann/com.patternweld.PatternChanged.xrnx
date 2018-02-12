@@ -1,5 +1,5 @@
 PatternChanged
---------------
+==============
 
 <img align="left" width="64" height="64" src="icon.png" alt="PatternChanged Logo"> PatternChanged is a Renoise plugin which will broadcast over OSC port 8008 (by default) whenever a pattern is changed during playback. This allows another app (such as Max) to be able to respond to these changes.
 
