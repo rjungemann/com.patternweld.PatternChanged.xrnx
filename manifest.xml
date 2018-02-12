@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>5</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>com.patternweld.PatternChanged</Id>
+  <Version>1.0</Version>
+  <Author>rjungemann [roger@patternweld.com]</Author>
+  <Name>PatternChanged</Name>
+  <Category>Tools</Category>
+  <Description>TODO: Fill this in.</Description>
+  <Homepage>http://scripting.renoise.com</Homepage>
+  <Icon>icon.png</Icon>
+  <Platform>Windows, Mac, Linux</Platform>
+</RenoiseScriptingTool>
